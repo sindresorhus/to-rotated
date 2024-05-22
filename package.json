@@ -1,6 +1,6 @@
 {
 	"name": "to-rotated",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"description": "Rotate an array by a given number of steps",
 	"license": "MIT",
 	"repository": "sindresorhus/to-rotated",
